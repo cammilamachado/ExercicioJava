@@ -1,4 +1,4 @@
-# Exercício 1 — Java
+# Exercício 1 
 
 Um repositório contendo um exercício para a prática da Integração Eclipse e GitHub.
 
