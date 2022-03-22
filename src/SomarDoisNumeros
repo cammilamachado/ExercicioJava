@@ -1,0 +1,29 @@
+package Exercicio;
+
+import java.util.Scanner;
+
+public class SomarDoisNumeros {
+	
+	public static void main (String[] args) {
+		
+		Scanner s = new Scanner (System.in);
+		
+		//Declaração das variáveis
+		int a, b, soma = 0;
+		
+		//Solicita ao usuário o primeiro valor
+		System.out.println ("Digite o primeiro valor");
+		a = s.nextInt();
+		
+		//Solicita ao usuário o segundo valor
+		System.out.println ("Digite o segundo valor");
+		b = s.nextInt();
+		
+		//Soma dos dois valores inseridos pelo usuário
+		soma = a + b;
+		
+		//Printa na tela o valor resultante
+		System.out.println ("A soma é de " + soma);	
+		
+	}
+}
