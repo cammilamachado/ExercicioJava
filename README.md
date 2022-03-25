@@ -1,6 +1,6 @@
 # Exercício 1 
 
-Um repositório contendo um exercício para a prática da Integração Eclipse e GitHub.
+Repositório contendo um exercício para a prática da Integração Eclipse e GitHub.
 
 Esta tarefa consiste na criação de um programa em Java utilizando o ambiente de desenvolvimento Eclipse, com as seguintes demandas:
 
